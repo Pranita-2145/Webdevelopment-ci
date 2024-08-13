@@ -1,3 +1,3 @@
 # Webdevelopment-ci
 Web development codsoft internship
-This is a landing page craeted for restaurant. 
+This is a landing page created for restaurant. 
